@@ -1,0 +1,1 @@
+Day 12 explores AI-assisted presentation creation using Gamma for improving passenger experience at airports. It covers GenAI use cases, AI-assisted workflows, risks, human review, governance, visual and content audits, and responsible implementation in aviation management.
